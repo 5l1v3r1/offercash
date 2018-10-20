@@ -1,2 +1,1 @@
-# OfferCash Inject Referral
-# Ex Referral Code : OC7BDB7X
+# OfferCash Inject Referral [Ex Referral Code : OC7BDB7X]
