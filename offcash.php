@@ -39,7 +39,7 @@ function curl($url,$data){
 	curl_close($ch);
 	return json_decode($x,true);
 }
-echo "[Copyright: @xptra x SGB Team\n]";
+echo "[Copyright: @xptra x SGB Team]\n";
 echo "?Reff		";
 $reff = trim(fgets(STDIN));
 echo "?Jumlah		";
