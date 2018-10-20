@@ -48,7 +48,7 @@ sleep(2);
 $a = 0;
 echo "[Your Code : $reff]\n";
 while(true){
-	$reg = reg("OC7BDB7X");
+	$reg = reg($reff);
 	if($reg=="y"){
 		$a += 1;
 		$percent = ceil(($a*100)/$jum);
